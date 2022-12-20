@@ -1,19 +1,25 @@
-Batied
+loop
+3d voxel platforming
 
-start in forest
-climb tree
-use to be hunting spot
-cast line and animal eats is
-reel it in
 
-Ideas-
-horror game
-racing
-hand held game
-cooking
-mini tower defense
-puncher
-boshy 
-hot potatoe
-portal
-splunky
+
+Splunky
+    health
+    pick, place, throw
+harmful
+    snakes
+    bats
+    spiders
+    dart traps
+    spikes
+generated*
+    chunks
+    path
+    symmetry
+items
+    whip? (Close de gap)
+    bombs
+    ropes
+    shop 
+    gold
+    
